@@ -1,3 +1,4 @@
+Ovo je izmena u koju nisam upucen.
 Izvrsena je promena ReadMe faja
 Ovo skladiste koristi fajlove za git lekciju.
 Treca izmena fajla.
