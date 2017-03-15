@@ -1,7 +1,7 @@
-def my_square(x):
+def my_square(z):
 	"""" prihvata broj i vraca njegov kvadrat
 		koristi operator **
 	""""
-	return(x ** 2)
+	return(z * z)
 
-print(my_square(4))
+print(my_square(24))
